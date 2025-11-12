@@ -7,13 +7,9 @@ const Header = () => {
       <div className="container">
         <nav className="py-7">
           <div className="flex items-center gap-4 sm:gap-8">
-            <div>
-              <Logo />
-            </div>
-
             {/* Simple Link - tidak ada onClick */}
             <Link
-              href="/resume.pdf"
+              href="/resume/resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="relative overflow-hidden w-fit py-2 sm:py-3 md:py-5 px-4 sm:px-5 md:px-7 border border-primary rounded-full group hover:bg-primary transition-colors duration-300"
