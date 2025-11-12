@@ -20,10 +20,8 @@ export default function Home() {
         <ExperienceSec />
         <EducationSkills />
         <LatestWork />
-        <Contact />
       </main>
       {/* FOOTER HANYA DI HOME PAGE */}
-      <Footer />
     </>
   );
 }
