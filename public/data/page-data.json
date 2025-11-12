@@ -1,0 +1,141 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "yusufkamil1205.yk@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:hello@imsruthi.com"
+      },
+      {
+        "type": "phone",
+        "label": "0895600184464",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "https://wa.me/0895600184464"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://linkedin.com"
+      },
+      {
+        "platform": "instagram",
+        "icon": "/images/icon/instagram-icon.svg",
+        "link": "https://facebook.com"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "ERP",
+        "description": "Epicor dan SAP B1"
+      },
+      {
+        "title": "PHP",
+        "description": "Laravel & CodeIginter"
+      },
+      {
+        "title": "Python",
+        "description": "Django & Flask"
+      },
+      {
+        "title": "JavaScript",
+        "description": "React.js"
+      },
+      {
+        "title": "Data Visualization",
+        "description": "Power BI, Tableu"
+      },
+      {
+        "title": "Database",
+        "description": "Maria DB, Mysql, Postgre"
+      },
+      {
+        "title": "Microsoft",
+        "description": "Excel, PPT, Power Apps, Power Automate"
+      },
+      {
+        "title": "UI/UX",
+        "description": "Figma"
+      }
+    ],
+    "skills": [
+      {
+        "name": "PHP",
+        "icon": "/images/home/education-skill/php.svg",
+        "rating": 5
+      },
+      {
+        "name": "Laravel",
+        "icon": "/images/home/education-skill/laravel.svg",
+        "rating": 5
+      },
+      {
+        "name": "Codeigniter",
+        "icon": "/images/home/education-skill/codeigniter.svg",
+        "rating": 4
+      },
+      {
+        "name": "Epicor",
+        "icon": "/images/home/education-skill/epicor2.svg",
+        "rating": 5
+      },
+      {
+        "name": "Python",
+        "icon": "/images/home/education-skill/python.svg",
+        "rating": 4
+      },
+      {
+        "name": "React",
+        "icon": "/images/home/education-skill/react.svg",
+        "rating": 3
+      },
+      {
+        "name": "MySql",
+        "icon": "/images/home/education-skill/mysql.svg",
+        "rating": 5
+      },
+      {
+        "name": "Figma",
+        "icon": "/images/home/education-skill/figma-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Power BI",
+        "icon": "/images/home/education-skill/powerbi.svg",
+        "rating": 4
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "Dribble",
+        "href": "/"
+      },
+      {
+        "title": "Facebook",
+        "href": "/"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "/"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "hello@imsruthi.com",
+        "link": "mailto:hello@imsruthi.com"
+      },
+      {
+        "type": "phone",
+        "label": "+901 5588 2500",
+        "link": "tel:+90155882500"
+      }
+    ]
+  }
+}

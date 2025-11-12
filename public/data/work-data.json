@@ -1,0 +1,47 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/project1.png",
+      "title": "WEBGIS WET WET",
+      "client": "Bachelor Thesis - UGM",
+      "slug": "webgis-wet-wet",
+      "category": "WebGIS & Data Visualization",
+      "year": "2024",
+      "gallery": [
+        "/images/work/gallery/webgis1.png",
+        "/images/work/gallery/webgis2.png"
+      ]
+    },
+    {
+      "image": "/images/work/project2.png",
+      "title": "SIMAK: Sistem Informasi Monitoring dan Akademik",
+      "client": "Banda Aceh City Teacher Supervisor",
+      "slug": "simak",
+      "category": "Education Management System",
+      "year": "2025",
+      "gallery": [
+        "/images/work/gallery/simak1.png",
+        "/images/work/gallery/simak2.png",
+        "/images/work/gallery/simak3.png",
+        "/images/work/gallery/simak4.png"
+      ]
+    },
+
+    {
+      "image": "/images/work/project3.png",
+      "title": "WEBGIS TegClean",
+      "client": "UGM Student",
+      "slug": "tegclean",
+      "category": "WebGIS & Data Visualization",
+      "year": "2025"
+    },
+    {
+      "image": "/images/work/project4.png",
+      "title": "E-Commerce: Less is More",
+      "client": "UNHAS Student",
+      "slug": "less-is-more",
+      "category": "E Commerce & Analytics",
+      "year": "2025"
+    }
+  ]
+}
